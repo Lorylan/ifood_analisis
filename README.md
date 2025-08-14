@@ -16,7 +16,7 @@ A continuación, se detallan items que pueden incluirse en el informe:
 4) Detalle de los experimentos realizados junto con sus resultados.
 5) Análisis de los resultados y conclusiones.
 
-##Organizacion de los archivos
+## Organizacion de los archivos
 - TrabajoFinal.pdf -> Contiene el informe solicitado con los puntos descritos anteriormente
 - iFood Data Analyst Case.pdf -> Contiene el caso de uso.
 - marketing_campaign.pdf -> Contiene los datos
